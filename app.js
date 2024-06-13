@@ -183,4 +183,4 @@ function showResult() {
     resultModal.style.display = "flex";
 }
 
-startQuiz();
+startQuiz()
